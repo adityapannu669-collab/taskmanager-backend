@@ -1,3 +1,7 @@
+Frontend Repository:
+https://github.com/adityapannu669-collab/taskmanager-ui
+
+
 # Task Manager Backend
 
 ## Overview
